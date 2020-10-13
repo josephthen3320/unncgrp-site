@@ -31,7 +31,6 @@
         <div class="w3-right">
             <a href="#projects" class="w3-bar-item w3-button w3-hide-small">Projects</a>
             <a href="#about" class="w3-bar-item w3-button w3-hide-small">About</a>
-            <a href="#contact" class="w3-bar-item w3-button w3-hide-small">Contact</a>
             <span class="w3-bar-item w3-hide-large w3-hide-medium">GRP Group 20</span>
         </div>
     </div>
@@ -62,15 +61,15 @@
             Ningbo China, UNNC) seem limited. A number of stakeholders (potential clients) at UNNC have
             lamented the disconnect between the kinds of artefacts that the community is producing — including
             the fantastic outputs from CS GRP and FYP students — and the rather poor manner in which UNNC
-            presents accomplishments to the world — often simply as a web-page report.<br>
-            This project is about addressing this problem.<br>
+            presents accomplishments to the world — often simply as a web-page report.<br><br>
+            This project is about addressing this problem.<br><br>
             There are already at least two major clients, and potentially more. One client is the NAA Team: The
             Nottingham Advantage Award (NAA) is the University’s employability scheme that helps students prepare
             for the job market, and it provides formal recognition for over 200 extracurricular activities in
             three countries. Students frequently produce digital artefacts as part of their NAA modules, but the
             university currently lacks a platform to publicise these artifacts for external stakeholders. A hosting
             platform (and associated protocol) that publicises students’ NAA achievements would increase the
-            visibility of UNNC students to global recruiting audiences.<br>
+            visibility of UNNC students to global recruiting audiences.<br><br>
             Other potential clients will be identified as part of the project.</p>
 
     </div>
@@ -240,31 +239,10 @@
             <img src="img/members/supervisor.jpg" alt="Supervisor" style="width:100%">
             <h3>Dave Towey</h3>
             <p class="w3-opacity">Project Supervisor</p>
-            <p>(Self-claimed) Harshest supervisor for the best project there is in the GRP Module. Very nice and supportive guy. <br><br><br></p>
-            <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+            <p>(Self-claimed) Harshest supervisor for the best project there is in the GRP Module. Very nice and supportive guy. <br></p>
+            <p><a href="mailto:dave.towey@nottingham.edu.cn" class="w3-button w3-light-grey w3-block">Contact</a></p>
         </div>
     </div>
-
-    <!-- Contact Section -->
-    <div class="w3-container w3-padding-32" id="contact">
-        <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Contact</h3>
-        <p>Lets get in touch and talk about your next project.</p>
-        <form action="/action_page.php" target="_blank">
-            <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
-            <input class="w3-input w3-section w3-border" type="text" placeholder="Email" required name="Email">
-            <input class="w3-input w3-section w3-border" type="text" placeholder="Subject" required name="Subject">
-            <input class="w3-input w3-section w3-border" type="text" placeholder="Comment" required name="Comment">
-            <button class="w3-button w3-black w3-section" type="submit">
-                <i class="fa fa-paper-plane"></i> SEND MESSAGE
-            </button>
-        </form>
-    </div>
-
-    <!-- Image of location/map -->
-    <div class="w3-container">
-        <img src="/w3images/map.jpg" class="w3-image" style="width:100%">
-    </div>
-
     <!-- End page content -->
 </div>
 
