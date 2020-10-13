@@ -154,7 +154,7 @@
             <img src="img/members/patricia.jpg" alt="Patricia" style="width:100%">
             <h3>Patricia Wong</h3>
             <p class="w3-opacity">Strategist</p>
-            <p>A fast learner, Patricia adapts quickly to changing situations and always pursues knowledge with curiosity.</p>
+            <p>A fast learner, Patricia adapts quickly to changing situations and always pursues knowledge with curiosity.<br></p>
             <h5>
                 <a href="mailto:smyww1@nottingham.edu.cn" class="w3-button w3-light-grey w3-block w3-half w3-hide-small">Contact <i class="fa fa-fw fa-paper-plane"></i></a>
                 <a href="documents/cv/CV_Patricia_20121668.pdf" class="w3-button w3-indigo w3-block w3-half w3-hide-small">CV <i class="fa fa-fw fa-file-download"></i> </a>
@@ -182,7 +182,7 @@
             <img src="img/members/gabrielle.jpg" alt="Gabrielle" style="width:100%">
             <h3>Gabrielle Hadian</h3>
             <p class="w3-opacity">Chief Multitasker</p>
-            <p>Hardworking and dependable. Gabrielle never fails to motivate and bring the best out of the team in the most challenging times.<br></p>
+            <p>Hardworking and dependable. Gabrielle never fails to motivate and bring the best out of the team in the most challenging times.</p>
             <h5>
                 <a href="mailto:scygh2@nottingham.edu.cn" class="w3-button w3-light-grey w3-block w3-half w3-hide-small">Contact <i class="fa fa-fw fa-paper-plane"></i></a>
                 <a href="documents/cv/CV_Gabrielle_20121753.pdf" class="w3-button w3-indigo w3-block w3-half w3-hide-small">CV <i class="fa fa-fw fa-file-download"></i> </a>
