@@ -53,7 +53,26 @@
 
     <!-- Project Section -->
     <div class="w3-container w3-padding-32" id="projects">
-        <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Projects</h3>
+        <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Our Project</h3>
+        <h4>[P06] A Digital Artefact Media and Marketing Platform and Protocol</h4>
+
+        <h5 class="w3-border-bottom w3-border-light-grey w3-padding-16">Project Brief</h5>
+        <p>In spite of the many ways in which personal interactions and media have evolved, much of the marketing
+            and advertising mechanisms at University of Nottingham (including at University of Nottingham
+            Ningbo China, UNNC) seem limited. A number of stakeholders (potential clients) at UNNC have
+            lamented the disconnect between the kinds of artefacts that the community is producing — including
+            the fantastic outputs from CS GRP and FYP students — and the rather poor manner in which UNNC
+            presents accomplishments to the world — often simply as a web-page report.<br>
+            This project is about addressing this problem.<br>
+            There are already at least two major clients, and potentially more. One client is the NAA Team: The
+            Nottingham Advantage Award (NAA) is the University’s employability scheme that helps students prepare
+            for the job market, and it provides formal recognition for over 200 extracurricular activities in
+            three countries. Students frequently produce digital artefacts as part of their NAA modules, but the
+            university currently lacks a platform to publicise these artifacts for external stakeholders. A hosting
+            platform (and associated protocol) that publicises students’ NAA achievements would increase the
+            visibility of UNNC students to global recruiting audiences.<br>
+            Other potential clients will be identified as part of the project.</p>
+
     </div>
 
     <!--div class="w3-row-padding">
@@ -219,9 +238,9 @@
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
             <img src="img/members/supervisor.jpg" alt="Supervisor" style="width:100%">
-            <h3>Question Mark</h3>
+            <h3>Dave Towey</h3>
             <p class="w3-opacity">Project Supervisor</p>
-            <p>404 Not found (yet).<br><br><br></p>
+            <p>(Self-claimed) Harshest supervisor for the best project there is in the GRP Module. Very nice and supportive guy. <br><br><br></p>
             <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
         </div>
     </div>
