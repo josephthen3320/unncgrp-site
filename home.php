@@ -236,7 +236,8 @@
             </h5>
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
-            <img src="img/members/supervisor.jpg" alt="Supervisor" style="width:100%">
+            <!--img src="img/members/supervisor.jpg" alt="Supervisor" style="width:100%"-->
+            <img src="https://www.nottingham.edu.cn/image-library/Staff-Profile/Engineering/dave-towey.x19ec4d43.png" alt="Dave Towey (Supervisor)" style="width:100%">
             <h3>Dave Towey</h3>
             <p class="w3-opacity">Project Supervisor</p>
             <p>(Self-claimed) Harshest supervisor for the best project there is in the GRP Module. Very nice and supportive guy. <br></p>
