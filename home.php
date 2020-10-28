@@ -29,8 +29,10 @@
         <span class="w3-bar-item w3-hide-small">GRP Group 20</span>
         <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
-            <a href="#projects" class="w3-bar-item w3-button w3-hide-small">Projects</a>
+            <a href="#projects" class="w3-bar-item w3-button w3-hide-small">Project</a>
             <a href="#about" class="w3-bar-item w3-button w3-hide-small">About</a>
+            <a href="#docs" class="w3-bar-item w3-button w3-hide-small">Documentations</a>      <!-- To be updated to a new separate page for easier navigation -->
+
             <span class="w3-bar-item w3-hide-large w3-hide-medium">GRP Group 20</span>
         </div>
     </div>
@@ -245,6 +247,16 @@
         </div>
     </div>
 
+
+    <!-- Docs Section -->
+    <!-- Will be re-located to a separate page asap -->
+    <div class="w3-container w3-padding-32" id="docs">
+        <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Documentations</h3>
+        <p>Important updates and documents can be found here!
+        </p>
+
+
+    </div>
 
     <!-- End page content -->
 </div>
