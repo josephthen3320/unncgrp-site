@@ -256,7 +256,7 @@
         </p>
 
         <h5 class="w3-border-bottom w3-border-light-grey w3-padding-16">Meeting Minutes</h5>
-        <p>[This is a placeholder for the meeting minutes section]</p>
+        <p>[Placeholder - to be implemented]</p>
 
 
     </div>
