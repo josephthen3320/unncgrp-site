@@ -139,8 +139,7 @@
         <div class="w3-col l3 m6 w3-margin-bottom">
             <img src="img/members/joseph.jpg" alt="Joseph" style="width:100%">
             <h3>Joseph Then</h3>
-            <p class="w3-opacity">Digital Overlord (Team Leader)</p>
-            <p class="w3-opacity w3-small">Team Leader</p>
+            <p class="w3-opacity">Digital Overlord (Team Leader)<br><span class="w3-small">Team Leader</span></p>
             <p>Joseph is a free-spirited, yet passionate leader who will always push and support the team to a higher ground.</p>
             <h5>
                 <a href="mailto:scyjt1@nottingham.edu.cn" class="w3-button w3-light-grey w3-block w3-half w3-hide-small">Contact <i class="fa fa-fw fa-paper-plane"></i></a>
