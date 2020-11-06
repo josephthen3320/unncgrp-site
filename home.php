@@ -15,11 +15,12 @@
     <title>Gen-O Project Site</title>
 
     <link rel="stylesheet" href="http://static.josephthenara.com/jt-assets/css/w3.css">
+    <link rel="stylesheet" href="css/minutes-theme.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
     <!--link rel="stylesheet" href="http://static.josephthenara.com/jt-assets/css/main.css"-->
 
-</head>
+</head>\
 <body>
 
 <!-- Navbar (sit on top) -->
@@ -256,7 +257,10 @@
         </p>
 
         <h5 class="w3-border-bottom w3-border-light-grey w3-padding-16">Meeting Minutes</h5>
-        <p>[Placeholder - to be implemented]</p>
+        <p class="w3-padding"><i>Hover on the meeting you would like to know more about!</i></p>
+        <div class="w3-row-padding" style="width: 100%">
+            <?php include "modular/mini-minutes.php"; ?>
+        </div>
 
 
     </div>

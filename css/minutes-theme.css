@@ -1,0 +1,85 @@
+.mm-casual-l5 {color:#000 !important; background-color:#e9f5ff !important}
+.mm-casual-l4 {color:#000 !important; background-color:#b6ddff !important}
+.mm-casual-l3 {color:#000 !important; background-color:#6cbaff !important}
+.mm-casual-l2 {color:#fff !important; background-color:#2398ff !important}
+.mm-casual-l1 {color:#fff !important; background-color:#0073d8 !important}
+.mm-casual-d1 {color:#fff !important; background-color:#004581 !important}
+.mm-casual-d2 {color:#fff !important; background-color:#003d72 !important}
+.mm-casual-d3 {color:#fff !important; background-color:#003564 !important}
+.mm-casual-d4 {color:#fff !important; background-color:#002e56 !important}
+.mm-casual-d5 {color:#fff !important; background-color:#002647 !important}
+
+.mm-casual-light {color:#000 !important; background-color:#e9f5ff !important}
+.mm-casual-dark {color:#fff !important; background-color:#002647 !important}
+.mm-casual-action {color:#fff !important; background-color:#002647 !important}
+
+.mm-casual {color:#fff !important; background-color:#004b8d !important}
+.mm-text-casual {color:#004b8d !important}
+.mm-border-casual {border-color:#004b8d !important}
+
+.mm-hover-casual:hover {color:#fff !important; background-color:#004b8d !important}
+.mm-hover-text-casual:hover {color:#004b8d !important}
+.mm-hover-border-casual:hover {border-color:#004b8d !important}
+
+.mm-formal-l5 {color:#000 !important; background-color:#f9f2f3 !important}
+.mm-formal-l4 {color:#000 !important; background-color:#e9d5d7 !important}
+.mm-formal-l3 {color:#000 !important; background-color:#d4acae !important}
+.mm-formal-l2 {color:#fff !important; background-color:#be8286 !important}
+.mm-formal-l1 {color:#fff !important; background-color:#a9585d !important}
+.mm-formal-d1 {color:#fff !important; background-color:#733b3f !important}
+.mm-formal-d2 {color:#fff !important; background-color:#663538 !important}
+.mm-formal-d3 {color:#fff !important; background-color:#5a2e31 !important}
+.mm-formal-d4 {color:#fff !important; background-color:#4d282a !important}
+.mm-formal-d5 {color:#fff !important; background-color:#402123 !important}
+
+.mm-formal-light {color:#000 !important; background-color:#f9f2f3 !important}
+.mm-formal-dark {color:#fff !important; background-color:#402123 !important}
+.mm-formal-action {color:#fff !important; background-color:#402123 !important}
+
+.mm-formal {color:#fff !important; background-color:#7f4145 !important}
+.mm-text-formal {color:#7f4145 !important}
+.mm-border-formal {border-color:#7f4145 !important}
+
+.mm-hover-formal:hover {color:#fff !important; background-color:#7f4145 !important}
+.mm-hover-text-formal:hover {color:#7f4145 !important}
+.mm-hover-border-formal:hover {border-color:#7f4145 !important}
+
+.flip-card {
+    background-color: transparent;
+    width: 300px;
+    height: 300px;
+    perspective: 1000px;
+}
+
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.flip-card-front {
+    background-color: #bbb;
+    color: black;
+}
+
+.flip-card-back {
+    background-color: #2980b9;
+    color: white;
+    transform: rotateY(180deg);
+}
