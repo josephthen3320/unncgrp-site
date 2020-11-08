@@ -144,7 +144,7 @@
     <!-- Meeting 06-->
     <div class="flip-card w3-col l3 m6 w3-margin-bottom">
         <div class="flip-card-inner">
-            <div class="flip-card-front mm-formal-d1 w3-display-container">
+            <div class="flip-card-front mm-formal-l1 w3-display-container">
                 <div class="w3-display-topmiddle w3-padding">
                     <h1 class="w3-xxlarge"><i class="fa fa-fw fa-user-tie"></i></h1>
                     <h6 class="w3-small">Formal</h6>
@@ -157,7 +157,7 @@
                 </div>
                 <!--img src="img_avatar.png" alt="Avatar" style="width:300px;height:300px;"-->
             </div>
-            <div class="flip-card-back w3-padding mm-formal-l1">
+            <div class="flip-card-back w3-padding mm-formal">
                 <h3>Meeting 06</h3>
                 <ul class="w3-left-align">
                     <li>Introduction of Team Members</li>
@@ -238,7 +238,7 @@
                 </div>
                 <!--img src="img_avatar.png" alt="Avatar" style="width:300px;height:300px;"-->
             </div>
-            <div class="flip-card-back w3-padding mm-formal-l1">
+            <div class="flip-card-back w3-padding mm-formal">
                 <h3>Meeting 09</h3>
                 <ul class="w3-left-align">
                     <li>Reviewed ethics documents</li>
@@ -248,6 +248,192 @@
         </div>
     </div>
 
+    <!-- Meeting 10-->
+    <div class="flip-card w3-col l3 m6 w3-margin-bottom">
+        <div class="flip-card-inner">
+            <div class="flip-card-front mm-casual-l1 w3-display-container">
+                <div class="w3-display-topmiddle w3-padding">
+                    <h1 class="w3-xxlarge"><i class="fa fa-fw fa-users"></i></h1>
+                    <h6 class="w3-small">Internal</h6>
+                </div>
+                <div class="w3-display-middle">
+                    <h1>Meeting 10</h1>
+                </div>
+                <div class="w3-display-bottommiddle">
+                    <h6>23 October 2020</h6>
+                </div>
+                <!--img src="img_avatar.png" alt="Avatar" style="width:300px;height:300px;"-->
+            </div>
+            <div class="flip-card-back w3-padding">
+                <h3>Meeting 10</h3>
+                <ul class="w3-left-align">
+                    <li>Planned interview with stakeholders</li>
+                    <li>Reviewed ethical documents</li>
+                    <li>Discussion about Interim Report</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Meeting 11-->
+    <div class="flip-card w3-col l3 m6 w3-margin-bottom">
+        <div class="flip-card-inner">
+            <div class="flip-card-front mm-casual w3-display-container">
+                <div class="w3-display-topmiddle w3-padding">
+                    <h1 class="w3-xxlarge"><i class="fa fa-fw fa-users"></i></h1>
+                    <h6 class="w3-small">Internal</h6>
+                </div>
+                <div class="w3-display-middle">
+                    <h1>Meeting 11</h1>
+                </div>
+                <div class="w3-display-bottommiddle">
+                    <h6>27 October 2020</h6>
+                </div>
+                <!--img src="img_avatar.png" alt="Avatar" style="width:300px;height:300px;"-->
+            </div>
+            <div class="flip-card-back w3-padding">
+                <h3>Meeting 11</h3>
+                <ul class="w3-left-align">
+                    <li>Roleplay for interview with stakeholders</li>
+                    <li>Finalized interview questions</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Meeting 12-->
+    <div class="flip-card w3-col l3 m6 w3-margin-bottom">
+        <div class="flip-card-inner">
+            <div class="flip-card-front mm-casual-d2 w3-display-container">
+                <div class="w3-display-topmiddle w3-padding">
+                    <h1 class="w3-xxlarge"><i class="fa fa-fw fa-users"></i></h1>
+                    <h6 class="w3-small">Internal</h6>
+                </div>
+                <div class="w3-display-middle">
+                    <h1>Meeting 12</h1>
+                </div>
+                <div class="w3-display-bottommiddle">
+                    <h6>29 October 2020</h6>
+                </div>
+                <!--img src="img_avatar.png" alt="Avatar" style="width:300px;height:300px;"-->
+            </div>
+            <div class="flip-card-back w3-padding">
+                <h3>Meeting 12</h3>
+                <ul class="w3-left-align">
+                    <li>Reviewed interview checklist</li>
+                    <li>GitLab training</li>
+                </ul>
+            </div>
+        </div>
+    </div>
 <!-- End of Row 03 -->
+
+<!-- Row 04 -->
+    <!-- Meeting 13-->
+    <div class="flip-card w3-col l3 m6 w3-margin-bottom">
+        <div class="flip-card-inner">
+            <div class="flip-card-front mm-formal-l1 w3-display-container">
+                <div class="w3-display-topmiddle w3-padding">
+                    <h1 class="w3-xxlarge"><i class="fa fa-fw fa-user-tie"></i></h1>
+                    <h6 class="w3-small">Formal</h6>
+                </div>
+                <div class="w3-display-middle">
+                    <h1>Meeting 13</h1>
+                </div>
+                <div class="w3-display-bottommiddle">
+                    <h6>29 October 2020</h6>
+                </div>
+                <!--img src="img_avatar.png" alt="Avatar" style="width:300px;height:300px;"-->
+            </div>
+            <div class="flip-card-back w3-padding mm-formal">
+                <h3>Meeting 13</h3>
+                <ul class="w3-left-align">
+                    <li>Mock interview feedback from supervisor</li>
+                    <li>Interim report discussions</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Meeting 14-->
+    <div class="flip-card w3-col l3 m6 w3-margin-bottom">
+        <div class="flip-card-inner">
+            <div class="flip-card-front mm-casual w3-display-container">
+                <div class="w3-display-topmiddle w3-padding">
+                    <h1 class="w3-xxlarge"><i class="fa fa-fw fa-users"></i></h1>
+                    <h6 class="w3-small">Internal</h6>
+                </div>
+                <div class="w3-display-middle">
+                    <h1>Meeting 14</h1>
+                </div>
+                <div class="w3-display-bottommiddle">
+                    <h6>30 October 2020</h6>
+                </div>
+                <!--img src="img_avatar.png" alt="Avatar" style="width:300px;height:300px;"-->
+            </div>
+            <div class="flip-card-back w3-padding">
+                <h3>Meeting 14</h3>
+                <ul class="w3-left-align">
+                    <li>Finalised email to stakeholders</li>
+                    <li>Discussion about interim report structure</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Interview 01-->
+    <div class="flip-card w3-col l3 m6 w3-margin-bottom">
+        <div class="flip-card-inner">
+            <div class="flip-card-front mm-stake w3-display-container">
+                <div class="w3-display-topmiddle w3-padding">
+                    <h1 class="w3-xxlarge"><i class="fa fa-fw fa-comments"></i></h1>
+                    <h6 class="w3-small">Dr Paul Martin</h6>
+                </div>
+                <div class="w3-display-middle">
+                    <h1>Interview 01</h1>
+                </div>
+                <div class="w3-display-bottommiddle">
+                    <h6>04 November 2020</h6>
+                </div>
+                <!--img src="img_avatar.png" alt="Avatar" style="width:300px;height:300px;"-->
+            </div>
+            <div class="flip-card-back w3-padding mm-stake-d3">
+                <h3>Interview 01</h3>
+                <ul class="w3-left-align">
+                    <li>Finalised email to stakeholders</li>
+                    <li>Discussion about interim report structure</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Meeting 15-->
+    <div class="flip-card w3-col l3 m6 w3-margin-bottom">
+        <div class="flip-card-inner">
+            <div class="flip-card-front mm-formal-d1 w3-display-container">
+                <div class="w3-display-topmiddle w3-padding">
+                    <h1 class="w3-xxlarge"><i class="fa fa-fw fa-user-tie"></i></h1>
+                    <h6 class="w3-small">Formal</h6>
+                </div>
+                <div class="w3-display-middle">
+                    <h1>Meeting 15</h1>
+                </div>
+                <div class="w3-display-bottommiddle">
+                    <h6>05 November 2020</h6>
+                </div>
+                <!--img src="img_avatar.png" alt="Avatar" style="width:300px;height:300px;"-->
+            </div>
+            <div class="flip-card-back w3-padding mm-formal">
+                <h3>Meeting 15</h3>
+                <ul class="w3-left-align">
+                    <li>Discussions about interview with Dr Martin</li>
+                    <li>Discussions about hosting and budgeting</li>
+                    <li>Discussions about Interim Report</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
 
 

@@ -1,3 +1,4 @@
+/* Casual Meetings Themes*/
 .mm-casual-l5 {color:#000 !important; background-color:#e9f5ff !important}
 .mm-casual-l4 {color:#000 !important; background-color:#b6ddff !important}
 .mm-casual-l3 {color:#000 !important; background-color:#6cbaff !important}
@@ -20,7 +21,9 @@
 .mm-hover-casual:hover {color:#fff !important; background-color:#004b8d !important}
 .mm-hover-text-casual:hover {color:#004b8d !important}
 .mm-hover-border-casual:hover {border-color:#004b8d !important}
+/* Casual Theme Ends */
 
+/* Formal Meeting Theme */
 .mm-formal-l5 {color:#000 !important; background-color:#f9f2f3 !important}
 .mm-formal-l4 {color:#000 !important; background-color:#e9d5d7 !important}
 .mm-formal-l3 {color:#000 !important; background-color:#d4acae !important}
@@ -43,7 +46,34 @@
 .mm-hover-formal:hover {color:#fff !important; background-color:#7f4145 !important}
 .mm-hover-text-formal:hover {color:#7f4145 !important}
 .mm-hover-border-formal:hover {border-color:#7f4145 !important}
+/* Formal Theme Ends */
 
+/* Stakeholder Theme */
+.mm-stake-l5 {color:#000 !important; background-color:#eafffd !important}
+.mm-stake-l4 {color:#000 !important; background-color:#bafff7 !important}
+.mm-stake-l3 {color:#000 !important; background-color:#74ffef !important}
+.mm-stake-l2 {color:#000 !important; background-color:#2fffe7 !important}
+.mm-stake-l1 {color:#fff !important; background-color:#00e9cd !important}
+.mm-stake-d1 {color:#fff !important; background-color:#009382 !important}
+.mm-stake-d2 {color:#fff !important; background-color:#008373 !important}
+.mm-stake-d3 {color:#fff !important; background-color:#007265 !important}
+.mm-stake-d4 {color:#fff !important; background-color:#006256 !important}
+.mm-stake-d5 {color:#fff !important; background-color:#005248 !important}
+
+.mm-stake-light {color:#000 !important; background-color:#eafffd !important}
+.mm-stake-dark {color:#fff !important; background-color:#005248 !important}
+.mm-stake-action {color:#fff !important; background-color:#005248 !important}
+
+.mm-stake {color:#fff !important; background-color:#00a591 !important}
+.mm-text-stake {color:#00a591 !important}
+.mm-border-stake {border-color:#00a591 !important}
+
+.mm-hover-stake:hover {color:#fff !important; background-color:#00a591 !important}
+.mm-hover-text-stake:hover {color:#00a591 !important}
+.mm-hover-border-stake:hover {border-color:#00a591 !important}
+/* Stakeholder Theme Ends */
+
+/* Flip card animation*/
 .flip-card {
     background-color: transparent;
     width: 300px;
@@ -83,3 +113,4 @@
     color: white;
     transform: rotateY(180deg);
 }
+/* Flip card Ends */
