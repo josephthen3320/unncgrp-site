@@ -25,7 +25,7 @@
             </div>
             <div class="flip-card-back w3-padding">
                 <h3>Meeting 01</h3>
-                <ul class="w3-left-align">
+                <ul class="w3-ul w3-left-align w3-ul">
                     <li>Enlisted and discussed possible projects to bid</li>
                     <li>Elected team leader</li>
                     <li>Read and did research on respective fields of the possible projects to bid</li>
@@ -52,7 +52,7 @@
             </div>
             <div class="flip-card-back w3-padding">
                 <h3>Meeting 02</h3>
-                <ul class="w3-left-align">
+                <ul class="w3-ul w3-left-align">
                     <li>Revised projects to bid</li>
                     <li>Distributed team members into sub teams to write bidding proposals</li>
                     <li>Decided our team name as "Gen-O"</li>
@@ -79,7 +79,7 @@
             </div>
             <div class="flip-card-back w3-padding">
                 <h3>Meeting 03</h3>
-                <ul class="w3-left-align">
+                <ul class="w3-ul w3-left-align">
                     <li>Updated the progress of each bidding proposal</li>
                     <li>Discussed on team logo designs</li>
                 </ul>
@@ -105,7 +105,7 @@
             </div>
             <div class="flip-card-back w3-padding">
                 <h3>Meeting 04</h3>
-                <ul class="w3-left-align">
+                <ul class="w3-ul w3-left-align">
                     <li>Updated the progress of each bidding proposal</li>
                     <li>Discussed on team website design and content</li>
                 </ul>
@@ -133,7 +133,7 @@
             </div>
             <div class="flip-card-back w3-padding">
                 <h3>Meeting 05</h3>
-                <ul class="w3-left-align">
+                <ul class="w3-ul w3-left-align">
                     <li>Project assignment result was out</li>
                     <li>Read through project brief and discussed on the need for RE revision</li>
                 </ul>
@@ -159,7 +159,7 @@
             </div>
             <div class="flip-card-back w3-padding mm-formal">
                 <h3>Meeting 06</h3>
-                <ul class="w3-left-align">
+                <ul class="w3-ul w3-left-align">
                     <li>Introduction of Team Members</li>
                     <li>Project Briefing</li>
                     <li>Team Q&A concerning project and scope</li>
@@ -186,7 +186,7 @@
             </div>
             <div class="flip-card-back w3-padding">
                 <h3>Meeting 07</h3>
-                <ul class="w3-left-align">
+                <ul class="w3-ul w3-left-align">
                     <li>Finalised member roles</li>
                     <li>Worked on Textual Analysis and Use Case Diagram based on the project brief</li>
                 </ul>
@@ -212,7 +212,7 @@
             </div>
             <div class="flip-card-back w3-padding">
                 <h3>Meeting 08</h3>
-                <ul class="w3-left-align">
+                <ul class="w3-ul w3-left-align">
                     <li>Worked on Ethics Documents</li>
                     <li>Designed stakeholder interview questions</li>
                 </ul>
@@ -240,7 +240,7 @@
             </div>
             <div class="flip-card-back w3-padding mm-formal">
                 <h3>Meeting 09</h3>
-                <ul class="w3-left-align">
+                <ul class="w3-ul w3-left-align">
                     <li>Reviewed ethics documents</li>
                     <li>Interview tips and suggestions</li>
                 </ul>
@@ -266,7 +266,7 @@
             </div>
             <div class="flip-card-back w3-padding">
                 <h3>Meeting 10</h3>
-                <ul class="w3-left-align">
+                <ul class="w3-ul w3-left-align">
                     <li>Planned interview with stakeholders</li>
                     <li>Reviewed ethical documents</li>
                     <li>Discussion about Interim Report</li>
@@ -293,7 +293,7 @@
             </div>
             <div class="flip-card-back w3-padding">
                 <h3>Meeting 11</h3>
-                <ul class="w3-left-align">
+                <ul class="w3-ul w3-left-align">
                     <li>Roleplay for interview with stakeholders</li>
                     <li>Finalized interview questions</li>
                 </ul>
@@ -319,7 +319,7 @@
             </div>
             <div class="flip-card-back w3-padding">
                 <h3>Meeting 12</h3>
-                <ul class="w3-left-align">
+                <ul class="w3-ul w3-left-align">
                     <li>Reviewed interview checklist</li>
                     <li>GitLab training</li>
                 </ul>
@@ -347,7 +347,7 @@
             </div>
             <div class="flip-card-back w3-padding mm-formal">
                 <h3>Meeting 13</h3>
-                <ul class="w3-left-align">
+                <ul class="w3-ul w3-left-align">
                     <li>Mock interview feedback from supervisor</li>
                     <li>Interim report discussions</li>
                 </ul>
@@ -373,7 +373,7 @@
             </div>
             <div class="flip-card-back w3-padding">
                 <h3>Meeting 14</h3>
-                <ul class="w3-left-align">
+                <ul class="w3-ul w3-left-align">
                     <li>Finalised email to stakeholders</li>
                     <li>Discussion about interim report structure</li>
                 </ul>
@@ -403,7 +403,7 @@
             <div class="flip-card-back w3-padding mm-stake-d3">
                 <h3>Interview 01</h3>
                 <h6 class="w3-left-align">Content:</h6>
-                <ul class="w3-left-align">
+                <ul class="w3-ul w3-left-align">
                     <li>Dr Martin's role in NAA</li>
                     <li>Artefacts to be posted on the developed platform</li>
                     <li>Other stakeholders</li>
@@ -431,7 +431,7 @@
             </div>
             <div class="flip-card-back w3-padding mm-formal">
                 <h3>Meeting 15</h3>
-                <ul class="w3-left-align">
+                <ul class="w3-ul w3-left-align">
                     <li>Discussions about interview with Dr Martin</li>
                     <li>Discussions about hosting and budgeting</li>
                     <li>Discussions about Interim Report</li>

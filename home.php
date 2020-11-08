@@ -32,7 +32,14 @@
         <div class="w3-right">
             <a href="#projects" class="w3-bar-item w3-button w3-hide-small">Project</a>
             <a href="#about" class="w3-bar-item w3-button w3-hide-small">About</a>
-            <a href="#docs" class="w3-bar-item w3-button w3-hide-small">Documentations</a>      <!-- To be updated to a new separate page for easier navigation -->
+            <div class="w3-dropdown-hover w3-hide-small">
+                <a href="#docs">
+                    <button class="w3-button w3-wide">Documentations <i class="fa fa-fw fa-caret-down"></i></button>      <!-- To be updated to a new separate page for easier navigation -->
+                </a>
+                <div class="w3-dropdown-content w3-bar-block w3-border">
+                    <a href="#docs-minutes" class="w3-bar-item w3-button w3-">Meeting Minutes</a>
+                </div>
+            </div>
 
             <span class="w3-bar-item w3-hide-large w3-hide-medium">GRP Group 20</span>
         </div>
@@ -148,10 +155,12 @@
         <p>Important updates and documents can be found here!
         </p>
 
-        <h5 class="w3-border-bottom w3-border-light-grey w3-padding-16">Meeting Minutes</h5>
-        <p class="w3-padding"><i>Hover on the meeting you would like to know more about!</i></p>
-        <div class="w3-row-padding" style="width: 100%">
-            <?php include "modular/mini-minutes.php"; ?>
+        <div class="" id="docs-minutes">
+            <h5 class="w3-border-bottom w3-border-light-grey w3-padding-16">Meeting Minutes</h5>
+            <p class="w3-padding"><i><span class="w3-hide-small">Hover</span><span class="w3-hide-large w3-hide-small">/</span><span class="w3-hide-large">Tap</span> on the meeting you would like to know more about!</i></p>
+            <div class="w3-row-padding" style="width: 100%">
+                <?php include "modular/mini-minutes.php"; ?>
+            </div>
         </div>
 
 
