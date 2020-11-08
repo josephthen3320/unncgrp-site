@@ -387,7 +387,10 @@
             <div class="flip-card-front mm-stake w3-display-container">
                 <div class="w3-display-topmiddle w3-padding">
                     <h1 class="w3-xxlarge"><i class="fa fa-fw fa-comments"></i></h1>
-                    <h6 class="w3-small">Dr Paul Martin</h6>
+                    <h6 class="w3-small">Stakeholder</h6>
+                </div>
+                <div class="w3-display-topright w3-padding">
+                    <h6 class="w3-tiny">Dr Paul Martin</h6>
                 </div>
                 <div class="w3-display-middle">
                     <h1>Interview 01</h1>
@@ -399,9 +402,12 @@
             </div>
             <div class="flip-card-back w3-padding mm-stake-d3">
                 <h3>Interview 01</h3>
+                <h6 class="w3-left-align">Content:</h6>
                 <ul class="w3-left-align">
-                    <li>Finalised email to stakeholders</li>
-                    <li>Discussion about interim report structure</li>
+                    <li>Dr Martin's role in NAA</li>
+                    <li>Artefacts to be posted on the developed platform</li>
+                    <li>Other stakeholders</li>
+                    <li>Project expectations and deliverables</li>
                 </ul>
             </div>
         </div>
@@ -433,7 +439,11 @@
             </div>
         </div>
     </div>
+<!-- End of Row 04 -->
 
+<!-- Row 05 -->
+
+<!-- End of Row 05-->
 
 
 
